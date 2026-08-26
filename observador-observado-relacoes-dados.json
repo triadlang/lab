@@ -1,0 +1,152 @@
+[
+  {
+    "tempo": 0.0,
+    "mutuo": 0.0,
+    "aninhado": 0.0,
+    "dois_pares": 0.0
+  },
+  {
+    "tempo": 5.0,
+    "mutuo": 34.723,
+    "aninhado": 34.17,
+    "dois_pares": 26.775
+  },
+  {
+    "tempo": 10.0,
+    "mutuo": 52.327,
+    "aninhado": 49.885,
+    "dois_pares": 30.108
+  },
+  {
+    "tempo": 15.0,
+    "mutuo": 71.791,
+    "aninhado": 67.768,
+    "dois_pares": 44.041
+  },
+  {
+    "tempo": 20.0,
+    "mutuo": 93.378,
+    "aninhado": 87.257,
+    "dois_pares": 63.491
+  },
+  {
+    "tempo": 25.0,
+    "mutuo": 85.907,
+    "aninhado": 94.111,
+    "dois_pares": 82.817
+  },
+  {
+    "tempo": 30.0,
+    "mutuo": 66.338,
+    "aninhado": 76.647,
+    "dois_pares": 98.288
+  },
+  {
+    "tempo": 35.0,
+    "mutuo": 45.578,
+    "aninhado": 58.295,
+    "dois_pares": 77.665
+  },
+  {
+    "tempo": 40.0,
+    "mutuo": 23.524,
+    "aninhado": 38.75,
+    "dois_pares": 56.06
+  },
+  {
+    "tempo": 45.0,
+    "mutuo": 2.562,
+    "aninhado": 20.047,
+    "dois_pares": 35.986
+  },
+  {
+    "tempo": 50.0,
+    "mutuo": 17.059,
+    "aninhado": 2.586,
+    "dois_pares": 16.923
+  },
+  {
+    "tempo": 55.0,
+    "mutuo": 37.731,
+    "aninhado": 15.671,
+    "dois_pares": 3.652
+  },
+  {
+    "tempo": 60.0,
+    "mutuo": 59.777,
+    "aninhado": 35.192,
+    "dois_pares": 25.294
+  },
+  {
+    "tempo": 65.0,
+    "mutuo": 80.84,
+    "aninhado": 53.979,
+    "dois_pares": 45.481
+  },
+  {
+    "tempo": 70.0,
+    "mutuo": 99.522,
+    "aninhado": 71.462,
+    "dois_pares": 64.529
+  },
+  {
+    "tempo": 75.0,
+    "mutuo": 78.95,
+    "aninhado": 89.633,
+    "dois_pares": 84.996
+  },
+  {
+    "tempo": 80.0,
+    "mutuo": 56.924,
+    "aninhado": 90.871,
+    "dois_pares": 93.35
+  },
+  {
+    "tempo": 85.0,
+    "mutuo": 35.761,
+    "aninhado": 72.0,
+    "dois_pares": 73.054
+  },
+  {
+    "tempo": 90.0,
+    "mutuo": 16.099,
+    "aninhado": 54.489,
+    "dois_pares": 54.013
+  },
+  {
+    "tempo": 95.0,
+    "mutuo": 4.375,
+    "aninhado": 36.4,
+    "dois_pares": 33.655
+  },
+  {
+    "tempo": 100.0,
+    "mutuo": 26.372,
+    "aninhado": 16.936,
+    "dois_pares": 11.998
+  },
+  {
+    "tempo": 105.0,
+    "mutuo": 47.631,
+    "aninhado": 2.015,
+    "dois_pares": 8.406
+  },
+  {
+    "tempo": 110.0,
+    "mutuo": 67.327,
+    "aninhado": 19.563,
+    "dois_pares": 27.449
+  },
+  {
+    "tempo": 115.0,
+    "mutuo": 87.704,
+    "aninhado": 37.572,
+    "dois_pares": 47.699
+  },
+  {
+    "tempo": 120.0,
+    "mutuo": 90.335,
+    "aninhado": 56.997,
+    "dois_pares": 69.349
+  }
+]

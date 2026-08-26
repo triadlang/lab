@@ -1,0 +1,177 @@
+[
+  {
+    "tempo": 0.0,
+    "unilateral": 0.0,
+    "mutuo": 0.0,
+    "aninhado": 0.0,
+    "entre_entres": 0.0
+  },
+  {
+    "tempo": 5.0,
+    "unilateral": 0.0,
+    "mutuo": 34.418,
+    "aninhado": 55.053,
+    "entre_entres": 30.098
+  },
+  {
+    "tempo": 10.0,
+    "unilateral": 0.0,
+    "mutuo": 80.537,
+    "aninhado": 82.688,
+    "entre_entres": 59.145
+  },
+  {
+    "tempo": 15.0,
+    "unilateral": 0.0,
+    "mutuo": 92.327,
+    "aninhado": 89.436,
+    "entre_entres": 83.402
+  },
+  {
+    "tempo": 20.0,
+    "unilateral": 0.0,
+    "mutuo": 95.834,
+    "aninhado": 91.112,
+    "entre_entres": 90.979
+  },
+  {
+    "tempo": 25.0,
+    "unilateral": 0.0,
+    "mutuo": 97.484,
+    "aninhado": 92.012,
+    "entre_entres": 93.526
+  },
+  {
+    "tempo": 30.0,
+    "unilateral": 0.0,
+    "mutuo": 98.222,
+    "aninhado": 91.812,
+    "entre_entres": 94.887
+  },
+  {
+    "tempo": 35.0,
+    "unilateral": 0.0,
+    "mutuo": 97.734,
+    "aninhado": 91.322,
+    "entre_entres": 94.901
+  },
+  {
+    "tempo": 40.0,
+    "unilateral": 0.0,
+    "mutuo": 97.538,
+    "aninhado": 91.339,
+    "entre_entres": 94.717
+  },
+  {
+    "tempo": 45.0,
+    "unilateral": 0.0,
+    "mutuo": 97.896,
+    "aninhado": 91.978,
+    "entre_entres": 94.737
+  },
+  {
+    "tempo": 50.0,
+    "unilateral": 0.0,
+    "mutuo": 98.44,
+    "aninhado": 91.836,
+    "entre_entres": 95.26
+  },
+  {
+    "tempo": 55.0,
+    "unilateral": 0.0,
+    "mutuo": 97.767,
+    "aninhado": 91.296,
+    "entre_entres": 95.038
+  },
+  {
+    "tempo": 60.0,
+    "unilateral": 0.0,
+    "mutuo": 97.611,
+    "aninhado": 91.313,
+    "entre_entres": 94.747
+  },
+  {
+    "tempo": 65.0,
+    "unilateral": 0.0,
+    "mutuo": 97.82,
+    "aninhado": 91.927,
+    "entre_entres": 94.724
+  },
+  {
+    "tempo": 70.0,
+    "unilateral": 0.0,
+    "mutuo": 98.51,
+    "aninhado": 91.875,
+    "entre_entres": 95.233
+  },
+  {
+    "tempo": 75.0,
+    "unilateral": 0.0,
+    "mutuo": 97.761,
+    "aninhado": 91.295,
+    "entre_entres": 95.058
+  },
+  {
+    "tempo": 80.0,
+    "unilateral": 0.0,
+    "mutuo": 97.678,
+    "aninhado": 91.302,
+    "entre_entres": 94.746
+  },
+  {
+    "tempo": 85.0,
+    "unilateral": 0.0,
+    "mutuo": 97.744,
+    "aninhado": 91.881,
+    "entre_entres": 94.705
+  },
+  {
+    "tempo": 90.0,
+    "unilateral": 0.0,
+    "mutuo": 98.581,
+    "aninhado": 91.917,
+    "entre_entres": 95.204
+  },
+  {
+    "tempo": 95.0,
+    "unilateral": 0.0,
+    "mutuo": 97.761,
+    "aninhado": 91.3,
+    "entre_entres": 95.079
+  },
+  {
+    "tempo": 100.0,
+    "unilateral": 0.0,
+    "mutuo": 97.752,
+    "aninhado": 91.296,
+    "entre_entres": 94.75
+  },
+  {
+    "tempo": 105.0,
+    "unilateral": 0.0,
+    "mutuo": 97.674,
+    "aninhado": 91.835,
+    "entre_entres": 94.69
+  },
+  {
+    "tempo": 110.0,
+    "unilateral": 0.0,
+    "mutuo": 98.652,
+    "aninhado": 91.959,
+    "entre_entres": 95.176
+  },
+  {
+    "tempo": 115.0,
+    "unilateral": 0.0,
+    "mutuo": 97.765,
+    "aninhado": 91.309,
+    "entre_entres": 95.103
+  },
+  {
+    "tempo": 120.0,
+    "unilateral": 0.0,
+    "mutuo": 97.832,
+    "aninhado": 91.296,
+    "entre_entres": 94.758
+  }
+]
