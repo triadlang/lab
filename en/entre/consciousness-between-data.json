@@ -1,0 +1,177 @@
+[
+  {
+    "time": 0.0,
+    "one_way": 0.0,
+    "mutual": 0.0,
+    "nested": 0.0,
+    "between_of_betweens": 0.0
+  },
+  {
+    "time": 5.0,
+    "one_way": 0.0,
+    "mutual": 34.418,
+    "nested": 55.053,
+    "between_of_betweens": 30.098
+  },
+  {
+    "time": 10.0,
+    "one_way": 0.0,
+    "mutual": 80.537,
+    "nested": 82.688,
+    "between_of_betweens": 59.145
+  },
+  {
+    "time": 15.0,
+    "one_way": 0.0,
+    "mutual": 92.327,
+    "nested": 89.436,
+    "between_of_betweens": 83.402
+  },
+  {
+    "time": 20.0,
+    "one_way": 0.0,
+    "mutual": 95.834,
+    "nested": 91.112,
+    "between_of_betweens": 90.979
+  },
+  {
+    "time": 25.0,
+    "one_way": 0.0,
+    "mutual": 97.484,
+    "nested": 92.012,
+    "between_of_betweens": 93.526
+  },
+  {
+    "time": 30.0,
+    "one_way": 0.0,
+    "mutual": 98.222,
+    "nested": 91.812,
+    "between_of_betweens": 94.887
+  },
+  {
+    "time": 35.0,
+    "one_way": 0.0,
+    "mutual": 97.734,
+    "nested": 91.322,
+    "between_of_betweens": 94.901
+  },
+  {
+    "time": 40.0,
+    "one_way": 0.0,
+    "mutual": 97.538,
+    "nested": 91.339,
+    "between_of_betweens": 94.717
+  },
+  {
+    "time": 45.0,
+    "one_way": 0.0,
+    "mutual": 97.896,
+    "nested": 91.978,
+    "between_of_betweens": 94.737
+  },
+  {
+    "time": 50.0,
+    "one_way": 0.0,
+    "mutual": 98.44,
+    "nested": 91.836,
+    "between_of_betweens": 95.26
+  },
+  {
+    "time": 55.0,
+    "one_way": 0.0,
+    "mutual": 97.767,
+    "nested": 91.296,
+    "between_of_betweens": 95.038
+  },
+  {
+    "time": 60.0,
+    "one_way": 0.0,
+    "mutual": 97.611,
+    "nested": 91.313,
+    "between_of_betweens": 94.747
+  },
+  {
+    "time": 65.0,
+    "one_way": 0.0,
+    "mutual": 97.82,
+    "nested": 91.927,
+    "between_of_betweens": 94.724
+  },
+  {
+    "time": 70.0,
+    "one_way": 0.0,
+    "mutual": 98.51,
+    "nested": 91.875,
+    "between_of_betweens": 95.233
+  },
+  {
+    "time": 75.0,
+    "one_way": 0.0,
+    "mutual": 97.761,
+    "nested": 91.295,
+    "between_of_betweens": 95.058
+  },
+  {
+    "time": 80.0,
+    "one_way": 0.0,
+    "mutual": 97.678,
+    "nested": 91.302,
+    "between_of_betweens": 94.746
+  },
+  {
+    "time": 85.0,
+    "one_way": 0.0,
+    "mutual": 97.744,
+    "nested": 91.881,
+    "between_of_betweens": 94.705
+  },
+  {
+    "time": 90.0,
+    "one_way": 0.0,
+    "mutual": 98.581,
+    "nested": 91.917,
+    "between_of_betweens": 95.204
+  },
+  {
+    "time": 95.0,
+    "one_way": 0.0,
+    "mutual": 97.761,
+    "nested": 91.3,
+    "between_of_betweens": 95.079
+  },
+  {
+    "time": 100.0,
+    "one_way": 0.0,
+    "mutual": 97.752,
+    "nested": 91.296,
+    "between_of_betweens": 94.75
+  },
+  {
+    "time": 105.0,
+    "one_way": 0.0,
+    "mutual": 97.674,
+    "nested": 91.835,
+    "between_of_betweens": 94.69
+  },
+  {
+    "time": 110.0,
+    "one_way": 0.0,
+    "mutual": 98.652,
+    "nested": 91.959,
+    "between_of_betweens": 95.176
+  },
+  {
+    "time": 115.0,
+    "one_way": 0.0,
+    "mutual": 97.765,
+    "nested": 91.309,
+    "between_of_betweens": 95.103
+  },
+  {
+    "time": 120.0,
+    "one_way": 0.0,
+    "mutual": 97.832,
+    "nested": 91.296,
+    "between_of_betweens": 94.758
+  }
+]

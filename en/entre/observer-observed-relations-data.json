@@ -1,0 +1,152 @@
+[
+  {
+    "time": 0.0,
+    "mutual": 0.0,
+    "nested": 0.0,
+    "two_pairs": 0.0
+  },
+  {
+    "time": 5.0,
+    "mutual": 34.723,
+    "nested": 34.17,
+    "two_pairs": 26.775
+  },
+  {
+    "time": 10.0,
+    "mutual": 52.327,
+    "nested": 49.885,
+    "two_pairs": 30.108
+  },
+  {
+    "time": 15.0,
+    "mutual": 71.791,
+    "nested": 67.768,
+    "two_pairs": 44.041
+  },
+  {
+    "time": 20.0,
+    "mutual": 93.378,
+    "nested": 87.257,
+    "two_pairs": 63.491
+  },
+  {
+    "time": 25.0,
+    "mutual": 85.907,
+    "nested": 94.111,
+    "two_pairs": 82.817
+  },
+  {
+    "time": 30.0,
+    "mutual": 66.338,
+    "nested": 76.647,
+    "two_pairs": 98.288
+  },
+  {
+    "time": 35.0,
+    "mutual": 45.578,
+    "nested": 58.295,
+    "two_pairs": 77.665
+  },
+  {
+    "time": 40.0,
+    "mutual": 23.524,
+    "nested": 38.75,
+    "two_pairs": 56.06
+  },
+  {
+    "time": 45.0,
+    "mutual": 2.562,
+    "nested": 20.047,
+    "two_pairs": 35.986
+  },
+  {
+    "time": 50.0,
+    "mutual": 17.059,
+    "nested": 2.586,
+    "two_pairs": 16.923
+  },
+  {
+    "time": 55.0,
+    "mutual": 37.731,
+    "nested": 15.671,
+    "two_pairs": 3.652
+  },
+  {
+    "time": 60.0,
+    "mutual": 59.777,
+    "nested": 35.192,
+    "two_pairs": 25.294
+  },
+  {
+    "time": 65.0,
+    "mutual": 80.84,
+    "nested": 53.979,
+    "two_pairs": 45.481
+  },
+  {
+    "time": 70.0,
+    "mutual": 99.522,
+    "nested": 71.462,
+    "two_pairs": 64.529
+  },
+  {
+    "time": 75.0,
+    "mutual": 78.95,
+    "nested": 89.633,
+    "two_pairs": 84.996
+  },
+  {
+    "time": 80.0,
+    "mutual": 56.924,
+    "nested": 90.871,
+    "two_pairs": 93.35
+  },
+  {
+    "time": 85.0,
+    "mutual": 35.761,
+    "nested": 72.0,
+    "two_pairs": 73.054
+  },
+  {
+    "time": 90.0,
+    "mutual": 16.099,
+    "nested": 54.489,
+    "two_pairs": 54.013
+  },
+  {
+    "time": 95.0,
+    "mutual": 4.375,
+    "nested": 36.4,
+    "two_pairs": 33.655
+  },
+  {
+    "time": 100.0,
+    "mutual": 26.372,
+    "nested": 16.936,
+    "two_pairs": 11.998
+  },
+  {
+    "time": 105.0,
+    "mutual": 47.631,
+    "nested": 2.015,
+    "two_pairs": 8.406
+  },
+  {
+    "time": 110.0,
+    "mutual": 67.327,
+    "nested": 19.563,
+    "two_pairs": 27.449
+  },
+  {
+    "time": 115.0,
+    "mutual": 87.704,
+    "nested": 37.572,
+    "two_pairs": 47.699
+  },
+  {
+    "time": 120.0,
+    "mutual": 90.335,
+    "nested": 56.997,
+    "two_pairs": 69.349
+  }
+]
